@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Fake News Detection](pauldarnaby.github.io/project1/Paul Darnaby Final Project ISYE 6740 Spring 2022.html)
+- [Fake News Detection](http://pauldarnaby.github.io/project1/Paul Darnaby Final Project ISYE 6740 Spring 2022.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
