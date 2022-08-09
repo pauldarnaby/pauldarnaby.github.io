@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Fake News Detection]([/project1/Paul_Darnaby_Final_Project_ISYE_6740_Spring_2022.html](https://github.com/pauldarnaby/pauldarnaby.github.io/blob/main/project1/Paul%20Darnaby%20Final%20Project%20ISYE%206740%20Spring%202022.html)
+[Fake News Detection](https://github.com/pauldarnaby/pauldarnaby.github.io/blob/main/project1/Paul%20Darnaby%20Final%20Project%20ISYE%206740%20Spring%202022.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
