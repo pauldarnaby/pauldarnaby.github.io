@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Fake News Detection](pauldarnaby.github.io/project1/Paul Darnaby Final Project ISYE 6740 Spring 2022.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Fake News Detection](pauldarnaby.github.io/project1/Paul Darnaby Final Project ISYE 6740 Spring 2022.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
